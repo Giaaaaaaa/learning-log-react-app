@@ -1,0 +1,18 @@
+
+.content {
+    flex:auto;
+}
+
+
+.desc {
+    height: 70px;
+    line-height: 70px;
+    font-size: 40px;
+    color: #836096;
+}
+
+.time {
+    font-size: 24px;
+    color:#BB2525;
+    font-weight: 800;
+}

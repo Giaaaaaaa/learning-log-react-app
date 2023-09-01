@@ -1,0 +1,22 @@
+.log-item {
+    background-color: #FFE5E5;
+    margin: 20px auto;
+    width: 85%;
+    display: flex;
+    overflow: hidden;
+    text-align: center;
+
+}
+
+.x-btn {
+    padding: 10px;
+    font-size: 30px;
+    transition: all 0.7s;
+    cursor: pointer;
+}
+
+.x-btn:hover {
+    transform: rotate(360deg);
+    transform-origin:center center;
+    color: red;
+}
